@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Wilson
+# 👨🏻‍💻 Pedro Wilson
 
 **`Desenvolvedor Front-End`**
 
