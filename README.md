@@ -77,7 +77,7 @@ Bacharel em Engenharia de Software (2020 - 2024) e Tecnólogo em Design Gráfico
     title="SQL DATABASE" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg]" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 <img 
     align="left" 
@@ -85,7 +85,7 @@ Bacharel em Engenharia de Software (2020 - 2024) e Tecnólogo em Design Gráfico
     title="MYSQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
     align="left" 
